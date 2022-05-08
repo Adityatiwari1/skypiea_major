@@ -1,6 +1,6 @@
 import react, { useState, useContext } from "react";
 import { AmazonContext } from "../context/AmazonContext";
-import Card from "./card";
+import Card from "./Card";
 
 const Cards = () => {
 
